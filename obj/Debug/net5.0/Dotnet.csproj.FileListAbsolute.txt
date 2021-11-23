@@ -1,0 +1,15 @@
+/Volumes/Content/Dotnet/bin/Debug/net5.0/Dotnet.deps.json
+/Volumes/Content/Dotnet/bin/Debug/net5.0/Dotnet.runtimeconfig.json
+/Volumes/Content/Dotnet/bin/Debug/net5.0/Dotnet.runtimeconfig.dev.json
+/Volumes/Content/Dotnet/bin/Debug/net5.0/Dotnet.dll
+/Volumes/Content/Dotnet/bin/Debug/net5.0/ref/Dotnet.dll
+/Volumes/Content/Dotnet/bin/Debug/net5.0/Dotnet.pdb
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.csproj.AssemblyReference.cache
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.AssemblyInfoInputs.cache
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.AssemblyInfo.cs
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.csproj.CoreCompileInputs.cache
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.dll
+/Volumes/Content/Dotnet/obj/Debug/net5.0/ref/Dotnet.dll
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.pdb
+/Volumes/Content/Dotnet/obj/Debug/net5.0/Dotnet.genruntimeconfig.cache
