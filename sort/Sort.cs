@@ -23,35 +23,29 @@ namespace Dotnet
 
             //冒泡排序
             // sortBase = new BubblingSort();
-            // sortBase.InitLst(lsDefault);
 
             //快速排序
             // sortBase = new FastSort();
-            // sortBase.InitLst(lsDefault);
 
             //选择排序
             // sortBase = new SelectSort();
-            // sortBase.InitLst(lsDefault);
 
             // //堆排序
             // sortBase = new HeapSort();
-            // sortBase.InitLst(lst2);
 
             //插入排序
             // sortBase = new InsertSort();
-            // sortBase.InitLst(lsDefault);
 
             //希尔排序
             // sortBase = new HillSort();
-            // sortBase.InitLst(lsDefault);
 
 
             //归并排序
             sortBase = new OrderByMergingSort();
+
+
+
             sortBase.InitLst(lsDefault);
-
-
-
             sortBase.Execute();
         }
 

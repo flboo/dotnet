@@ -5,6 +5,12 @@ namespace Dotnet.Reflect
 {
     public class ReflectNormal : ReflectBase
     {
+
+
+        ///ps：  什么是   type type 就是一个抽象类 用来包含类型的特性  这个类的对象能让我们获取程序使用的类型的信息
+        //  由于他是抽象类  所以获取的是派生类事例
+        // 程序每创建一个类型， clr 会创建一个包含这个类型信息的type类派生类型的事例
+        // 无论一个类型创建多少个十里 ，  这些事例都只会关联一个type 实例
         public override void Start()
         {
             base.Start();
