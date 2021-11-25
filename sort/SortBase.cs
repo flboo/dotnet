@@ -15,6 +15,7 @@ namespace Dotnet
             {
                 Console("dic length: " + dic.Count.ToString());
             }
+            Console(" execute start  time: " + System.DateTime.Now.Millisecond);
         }
 
         public virtual void InitLst(List<int> lst) { this.lst = lst; }
@@ -38,6 +39,7 @@ namespace Dotnet
                 }
             }
             Console(str);
+            Console(" execute end  time: " + System.DateTime.Now.Millisecond);
         }
 
         protected void Console(string log) { System.Console.WriteLine(log); }

@@ -5,6 +5,7 @@ namespace Dotnet
     {
         public override void Execute()
         {
+            base.Execute();
             for (int i = 0; i < lst.Count; i++)
             {
                 int value = i;
