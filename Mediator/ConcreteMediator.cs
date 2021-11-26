@@ -33,7 +33,7 @@ namespace Dotnet.Mediator
 
 
 
-        static void Main(string[] str)
+        static void Main_me(string[] str)
         {
             ConcreteMediator concreteMediator = new ConcreteMediator();
 
